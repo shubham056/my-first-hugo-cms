@@ -1,6 +1,6 @@
 ---
 title: coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
